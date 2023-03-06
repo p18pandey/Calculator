@@ -1,0 +1,29 @@
+.text-center {
+    text-align: center;
+}
+
+/* .bg-red {
+    background-color: rgb(63, 60, 60);
+} */
+.container{
+ text-align: center;
+}
+.mx-auto {
+    margin: auto;
+}
+
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+.cancel{
+    width: 128px;
+}
+.answer{
+    width: 128px;
+}
+
